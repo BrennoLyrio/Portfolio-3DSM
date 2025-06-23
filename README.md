@@ -8,13 +8,13 @@ Olá! Me chamo Brenno Lyrio, sou estudante do curso de Desenvolvimento de Softwa
 
 Sempre gostei da área de tecnologia, desfrutar dela sempre foi algo incrível mas a partir do momento que descubro o lado de como ela foi desenvolvida, é um mar a ser descoberto, é incrível estudar e entender a lógica por trás de tudo e a melhor parte, criar!
 
-Acredito que programar é uma mistura de criatividade e lógica. Nesse sentido, desenvolver algo se torna facinante, como consequência da criatividade que é bastante exigida dentro do curso, hoje possuo algumas expêriencias como: Desenvolvedor Web, Criador de Animação Musical, Editor de Vídeo, Explicador de Matemática e Musicista.
+Acredito que programar é uma mistura de criatividade e lógica. Nesse sentido, desenvolver algo se torna fascinante, como consequência da criatividade que é bastante exigida dentro do curso, hoje possuo algumas experiências como: Desenvolvedor Web, Criador de Animação Musical, Editor de Vídeo, Explicador de Matemática e Musicista.
 
 ## Contatos
 
 <p>
   <a href="https://github.com/BrennoLyrio"> <img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=black&color=c0d89d"></img></a>
-  <a href="mailto:brennolyrio27@gmail.com"> <img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=black&color=c0d89d"></img></a>
+  <a href="https://www.instagram.com/brenno_lyrio/"> <img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=black&color=c0d89d"></img></a>
   <a href="mailto:brennolyrio27@gmail.com"> <img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=black&color=c0d89d"></img></a>
   <a href="https://www.linkedin.com/in/brennolyrio/"> <img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=black&color=c0d89d"></img></a>
 </p>
@@ -26,7 +26,7 @@ Acredito que programar é uma mistura de criatividade e lógica. Nesse sentido, 
 
 ![Banner BeeOnTime](https://github.com/user-attachments/assets/b56e3060-73c1-40db-8302-7d63664b3882)
 
-O BeeOnTime é um aplicação web moderna e responsiva para o controle de ponto eletrônico dos colaboradores de uma empresa. O sistema permitirá o registro e gerenciamento de horas trabalhadas, horas extras, férias, folgas, justificativas e ajustes de jornada. A plataforma contará com funcionalidades como marcação de ponto, espelho de ponto, banco de horas, relatórios detalhados e envio de notificações.
+O BeeOnTime é uma aplicação web moderna e responsiva para o controle de ponto eletrônico dos colaboradores de uma empresa. O sistema permitirá o registro e gerenciamento de horas trabalhadas, horas extras, férias, folgas, justificativas e ajustes de jornada. A plataforma contará com funcionalidades como marcação de ponto, espelho de ponto, banco de horas, relatórios detalhados e envio de notificações.
 
 <p align="center">
   <a href="https://github.com/SkyFlyTeam/beeOnTime-documentation">
@@ -51,8 +51,8 @@ O BeeOnTime é um aplicação web moderna e responsiva para o controle de ponto 
 ![Jira](https://img.shields.io/badge/Jira-20232A?style=for-the-badge&logo=Jira&logoColor=4169E1)
 
 ### Contribuições Pessoais
-- Como scrum team, meu papel era focado no desenvolvimento, e a partir disso contruibuí no desenvolvimento front-end, criando páginas, tabelas, cards e etc. Para isso usei o React, sendo estruturada no Next JS e como biblioteca Tailwind CSS.
-- O maior desafio que busquei é conseguir aprender o necessário em pouco tempo buscando o melhor resultado.
+- Como scrum team, meu papel era focado no desenvolvimento, e a partir disso contribuí no desenvolvimento front-end, criando páginas, tabelas, cards e etc. Para isso usei o React, sendo estruturada no Next.js e como biblioteca Tailwind CSS.
+- O maior desafio que busquei foi conseguir aprender o necessário em pouco tempo buscando o melhor resultado.
 
 ### Hard Skills Desenvolvidas
 - Next JS
@@ -77,7 +77,7 @@ O BeeOnTime é um aplicação web moderna e responsiva para o controle de ponto 
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★☆☆☆☆</td>
+      <td>★★☆☆☆</td>
     </tr>
     <tr>
       <td>Autonomia</td>
@@ -85,7 +85,7 @@ O BeeOnTime é um aplicação web moderna e responsiva para o controle de ponto 
     </tr>
     <tr>
       <td>Colaboração</td>
-      <td>★☆☆☆☆</td>
+      <td>★★☆☆☆</td>
     </tr>
     <tr>
       <td>Entrega de Resultados</td>
@@ -93,3 +93,8 @@ O BeeOnTime é um aplicação web moderna e responsiva para o controle de ponto 
     </tr>
   </table>
 </details>
+
+---
+
+<p align="center"><i>Obrigado por visitar meu portfólio! Fique à vontade para entrar em contato </i></p>
+
