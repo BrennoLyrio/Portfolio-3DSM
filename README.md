@@ -68,7 +68,9 @@ O BeeOnTime é um aplicação web moderna e responsiva para o controle de ponto 
 
 <details>
 <summary> <b> Avaliação PACER desse projeto </b> </summary>
-
+<br>
+<table align="center">
+  
 <tr>
       <th width="300px">Habilidade</th>
       <th width="300px">Classificação</th>
