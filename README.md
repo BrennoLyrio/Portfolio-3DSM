@@ -55,16 +55,16 @@ O BeeOnTime é uma aplicação web moderna e responsiva para o controle de ponto
 - O maior desafio que busquei foi conseguir aprender o necessário em pouco tempo buscando o melhor resultado.
 
 ### Hard Skills Desenvolvidas
-- Next JS
-- Tailwind CSS
-- React
+- **Next JS** - Estrutura que aprendi durante o projeto e que se mostrou extremamente útil para organizar as páginas e o roteamento do front-end de forma eficiente.
+- **Tailwind CSS** - Framework de estilização que trouxe uma nova abordagem para mim, permitindo aplicar estilos de forma responsiva e modular diretamente no HTML, otimizando o desenvolvimento visual.
+- **React** - Framework principal utilizado no front-end. Aprendi a criar componentes como cards e modais, utilizando conceitos como estado, props e hooks. Foi essencial para minha evolução técnica no projeto..
 
 ### Soft Skills Desenvolvidas
-- Comunicação
-- Aprender a aprender 
-- Trabalho em equipe
-- Planejamento Ágil (Scrum)
-- Gestão de tempo
+- **Comunicação** - Mantive alinhamento constante com os membros da equipe, garantindo que todas as decisões e execuções estivessem claras para todos.
+- **Aprender a aprender** - Cada tarefa que assumi exigiu aprendizado rápido e eficaz de novas tecnologias, o que fortaleceu minha capacidade de adaptação.
+- **Trabalho em equipe** - Contribuí ativamente tanto na programação quanto nas decisões de projeto, mantendo sempre uma postura colaborativa.
+- **Planejamento Ágil (Scrum)** - Participei ativamente das cerimônias do time (como dailies e plannings), contribuindo para o andamento fluido do projeto.
+- **Gestão de tempo** -Aprimorei minha capacidade de organizar tarefas e priorizar entregas para cumprir os prazos estabelecidos durante os sprints.
 
 <details>
 <summary> <b> Avaliação PACER desse projeto </b> </summary>
